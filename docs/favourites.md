@@ -18,5 +18,6 @@ Multiplayer purchases usually break though.
 - [Random Cards TD](https://play.google.com/store/apps/details?id=com.FigaseGame.MagicBattleMergeRandomCards&hl=en&gl=US)
 - [Wind Wings](https://play.google.com/store/apps/details?id=com.Wind.wings.Space.Shooter&hl=en&gl=US)
 - [Neon Impact](https://play.google.com/store/apps/details?id=com.lemonjamgames.neonimpact&hl=en&gl=US)
+- [My Friend Pedro: Ripe for Reve](https://play.google.com/store/apps/details?id=com.devolverdigital.myfriendpedro&hl=en)
 
 [To the big list 🚀](/#apps)
